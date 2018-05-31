@@ -1,0 +1,1 @@
+This is an application of chat board app using Microsoft Bot framework with LUIS integration.
